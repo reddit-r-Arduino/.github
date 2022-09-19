@@ -1,4 +1,4 @@
-![](profile/arduino-transparent-bg-256x256.png) 
+![](arduino-transparent-bg-256x256.png) 
 # Welcome to the r/Arduino subreddit respository!
 This code repository (or "repo") is the official repo for the https://reddit.com/r/arduino community. 
 
